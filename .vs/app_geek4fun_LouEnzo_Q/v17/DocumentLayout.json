@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|app_geek4fun_LouEnzo_Q||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|e:\\2anneev2\\atelierpro\\projet1\\app_geek4fun_louenzo_q\\app_geek4fun_louenzo_q\\sujets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\sujets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B755C250-6583-44A3-8886-EC0F8992D6CF}|lib_geek4fun_LouEnzo\\lib_geek4fun_LouEnzo.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_louenzo\\connexionbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755C250-6583-44A3-8886-EC0F8992D6CF}|lib_geek4fun_LouEnzo\\lib_geek4fun_LouEnzo.csproj|solutionrelative:lib_geek4fun_louenzo\\connexionbdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\choix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\choix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B755C250-6583-44A3-8886-EC0F8992D6CF}|lib_geek4fun_LouEnzo\\lib_geek4fun_LouEnzo.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_louenzo\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B755C250-6583-44A3-8886-EC0F8992D6CF}|lib_geek4fun_LouEnzo\\lib_geek4fun_LouEnzo.csproj|solutionrelative:lib_geek4fun_louenzo\\utilisateur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\sujets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\sujets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9A106-9875-4592-984C-7826C767CBDF}|lib_geek4fun_LouEnzoTests\\lib_geek4fun_LouEnzoTests.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_louenzotests\\utilisateurtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9A106-9875-4592-984C-7826C767CBDF}|lib_geek4fun_LouEnzoTests\\lib_geek4fun_LouEnzoTests.csproj|solutionrelative:lib_geek4fun_louenzotests\\utilisateurtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A9A106-9875-4592-984C-7826C767CBDF}|lib_geek4fun_LouEnzoTests\\lib_geek4fun_LouEnzoTests.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_louenzotests\\connexionbddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A9A106-9875-4592-984C-7826C767CBDF}|lib_geek4fun_LouEnzoTests\\lib_geek4fun_LouEnzoTests.csproj|solutionrelative:lib_geek4fun_louenzotests\\connexionbddtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\theme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\choix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\choix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_louenzo_q\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|solutionrelative:app_geek4fun_louenzo_q\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A490BC5E-5F36-4AE0-8F94-D0E0F495592D}|app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj|e:\\2anneev2\\atelierpro\\projet1\\app_geek4fun_louenzo_q\\app_geek4fun_louenzo_q\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app_geek4fun_LouEnzo_Q",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj*",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T09:00:33.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "utilisateurTests.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzoTests\\utilisateurTests.cs",
+              "RelativeDocumentMoniker": "lib_geek4fun_LouEnzoTests\\utilisateurTests.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzoTests\\utilisateurTests.cs",
+              "RelativeToolTip": "lib_geek4fun_LouEnzoTests\\utilisateurTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:54:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "connexionBDDTests.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzoTests\\connexionBDDTests.cs",
+              "RelativeDocumentMoniker": "lib_geek4fun_LouEnzoTests\\connexionBDDTests.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzoTests\\connexionBDDTests.cs",
+              "RelativeToolTip": "lib_geek4fun_LouEnzoTests\\connexionBDDTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:54:21.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "connexionBDD.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzo\\connexionBDD.cs",
+              "RelativeDocumentMoniker": "lib_geek4fun_LouEnzo\\connexionBDD.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzo\\connexionBDD.cs",
+              "RelativeToolTip": "lib_geek4fun_LouEnzo\\connexionBDD.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:38:04.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "utilisateur.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzo\\utilisateur.cs",
+              "RelativeDocumentMoniker": "lib_geek4fun_LouEnzo\\utilisateur.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\lib_geek4fun_LouEnzo\\utilisateur.cs",
+              "RelativeToolTip": "lib_geek4fun_LouEnzo\\utilisateur.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:35:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sujets.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\sujets.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\sujets.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\sujets.cs",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\sujets.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADgvyUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:56:28.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sujets.cs [Design]",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\sujets.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\sujets.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\sujets.cs [Design]",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\sujets.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:54:41.536Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "choix.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\choix.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\choix.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\choix.cs",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\choix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:45:59.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "choix.cs [Design]",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\choix.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\choix.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\choix.cs [Design]",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\choix.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:44:41.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "theme.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\theme.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\theme.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\theme.cs",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\theme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:36:49.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "theme.cs [Design]",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\theme.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\theme.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\theme.cs [Design]",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\theme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T03:35:21.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "connexion.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\connexion.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\connexion.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\connexion.cs",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\connexion.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:50:18.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "connexion.cs [Design]",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\connexion.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\connexion.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\connexion.cs [Design]",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\connexion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:41:19.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\App.config",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\App.config",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\App.config",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-30T07:51:07.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "accueil.cs",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\accueil.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\accueil.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\accueil.cs",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\accueil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T06:28:21.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "accueil.cs [Design]",
+              "DocumentMoniker": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\accueil.cs",
+              "RelativeDocumentMoniker": "app_geek4fun_LouEnzo_Q\\accueil.cs",
+              "ToolTip": "E:\\2anneeV2\\atelierPro\\projet1\\app_geek4fun_LouEnzo_Q\\app_geek4fun_LouEnzo_Q\\accueil.cs [Design]",
+              "RelativeToolTip": "app_geek4fun_LouEnzo_Q\\accueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:50:32.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
